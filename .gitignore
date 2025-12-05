@@ -1,0 +1,19 @@
+# Common gitignore file
+
+# Pithon/
+pycache/
+.my_env/
+/mnt/data/
+
+# Alteryx
+.xmd
+.xywm
+.xywz
+.xdml
+.xlo
+/artifacts/
+
+# Exclude local runtime files
+.vscode
+.idea
+
